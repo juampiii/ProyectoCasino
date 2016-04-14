@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Daniel Landa
+License Type: Purchased
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="bbdd.Partida_registrado" table="Partida_registrado" lazy="false">
+		<id name="ID" column="ID" type="integer" unsaved-value="0">
+			<generator class="native">
+			</generator>
+		</id>
+		<property name="fecha" column="Fecha" type="date" not-null="false" lazy="false"/>
+		<property name="hora_inicio" column="Hora_inicio" type="double" not-null="true" lazy="false"/>
+		<property name="cantidad" column="Cantidad" type="double" not-null="true" lazy="false"/>
+		<property name="hora_fin" column="Hora_fin" type="double" not-null="true" lazy="false"/>
+		<many-to-one name="ORM_Usuario_Registrado" cascade="lock" column="Usuario_RegistradoUsuarioDni" class="bbdd.Usuario_Registrado" not-null="true" lazy="false">
+		</many-to-one>
+		<many-to-one name="ORM_Juego" cascade="lock" column="JuegoId_juego" class="bbdd.Juego" not-null="true" lazy="false">
+		</many-to-one>
+	</class>
+</hibernate-mapping>

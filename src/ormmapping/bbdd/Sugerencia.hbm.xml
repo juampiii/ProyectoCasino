@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Daniel Landa
+License Type: Purchased
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="bbdd.Sugerencia" table="Sugerencia" lazy="false">
+		<composite-id>
+			<key-property name="id_Sugerencia" column="Id_Sugerencia" type="string"/>
+			<key-many-to-one name="ORM_Es_atendida_por" column="AdministradorUsuarioDni" class="bbdd.Administrador_">
+			</key-many-to-one>
+		</composite-id>
+		<many-to-one name="es_escrita_por" cascade="lock" column="Usuario_RegistradoUsuarioDni" class="bbdd.Usuario_Registrado" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+		<property name="texto" column="Texto" type="string" length="255" not-null="false" lazy="false"/>
+		<property name="fecha" column="Fecha" type="date" not-null="false" lazy="false"/>
+		<component name="forma_parte_de" class="bbdd.BD_Sugerencias_" update="true" insert="true">
+			<component name="es_gestionado" class="bbdd.BD_Principal" update="true" insert="true">
+				<component name="administra_" class="bbdd.BD_Usuarios_no_Identificados" update="true" insert="true">
+				</component>
+				<component name="administra" class="bbdd.BD_Gestores_de_Juegos_" update="true" insert="true">
+				</component>
+				<component name="gestiona_" class="bbdd.BD_Gestores_de_Usuarios_" update="true" insert="true">
+				</component>
+				<component name="contiene_" class="bbdd.BD_Movimientos" update="true" insert="true">
+				</component>
+				<component name="contiene_elementos_de" class="bbdd.BD_Juegos" update="true" insert="true">
+				</component>
+				<component name="administra_elementos_de" class="bbdd.BD_juegos_publicos" update="true" insert="true">
+				</component>
+				<component name="almacena" class="bbdd.BD_Usuarios_registrados" update="true" insert="true">
+				</component>
+				<component name="posee_" class="bbdd.BD_Configuraciones" update="true" insert="true">
+				</component>
+			</component>
+		</component>
+	</class>
+</hibernate-mapping>

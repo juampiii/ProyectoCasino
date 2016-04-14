@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/interfaces
+END
+IGestorDeJuegos.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modelado/!svn/ver/15/trunk/ProyectoNuevo/src/interfaces/IGestorDeJuegos.java
+END
+IUsuario_no_identificado.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modelado/!svn/ver/4/trunk/ProyectoNuevo/src/interfaces/IUsuario_no_identificado.java
+END
+IGestorDeUsuarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/interfaces/IGestorDeUsuarios.java
+END

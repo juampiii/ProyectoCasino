@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IconProject Version="2.0" Name="exit">
+  <Icon Name="exit" HasCharacterMap="false" IsDirty="true" GroupName="Application" ExportCommand="MetroGraphicsPackage.IconCommand" Data="M8.3332899,60.647999L42.257647,60.647999 50.000998,65.463997 0,65.463997z M15.4972,25.608999C14.320045,25.608999 13.372,26.557045 13.372,27.728899 13.372,28.903355 14.320045,29.854 15.4972,29.854 16.669155,29.854 17.616999,28.903355 17.616999,27.728899 17.616999,26.557045 16.669155,25.608999 15.4972,25.608999z M9.6489999,0L40.982,0 40.982,55.48 9.6489999,55.48z">
+    <Settings MainWidth="128" MainHeight="128" FlipX="1" FlipY="1" CustomSize="128" IconShape="Square" BackgroundBrush="#FF0B8AFF" ContentWidth="54" ContentHeight="54" Angle="0" SizeIndex="5" Padding="37" MaximumPadding="39" IconBrush="#FFFFFFFF" FontFamily="Webdings" Character="&gt;" FlipCommand="MetroGraphicsPackage.IconCommand" IsBackgroundVisible="true" />
+  </Icon>
+</IconProject>

@@ -1,0 +1,104 @@
+10
+
+dir
+11
+http://rsteam.cloudapp.net/svn/modelado/trunk/ProyectoNuevo/src
+http://rsteam.cloudapp.net/svn/modelado
+
+
+
+2014-06-18T01:51:06.017980Z
+11
+mustan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5e9ff094-c997-4591-ab81-54130dac8f15
+
+Casino
+dir
+
+Chat
+dir
+
+Craps
+dir
+
+Escoba
+dir
+
+GBoard
+dir
+
+Mastermind
+dir
+
+Parejas_Simpsons
+dir
+
+bbdd
+dir
+
+interfaces
+dir
+
+mds2
+dir
+
+orm.jar
+file
+
+
+
+
+2014-05-21T12:28:35.377000Z
+41128629429d5ad503af48dc14909e01
+2014-06-17T03:32:05.707168Z
+3
+juampi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7569394
+
+ormmapping
+dir
+
+ormsamples
+dir
+
+rmi
+dir
+
+utils
+dir
+

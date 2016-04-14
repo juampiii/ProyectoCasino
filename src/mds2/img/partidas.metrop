@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IconProject Version="2.0" Name="juegos">
+  <Icon Name="Game" HasCharacterMap="false" Data="F1M900.37,-9.9086C896.903,-37.3279 884.822,-37.5375 881.251,-34.4906 877.678,-31.445 877.363,-30.6039 874.107,-30.2888L863.753,-30.2888C860.497,-30.6039 860.182,-31.445 856.61,-34.4906 853.037,-37.5375 840.956,-37.3279 837.49,-9.9086 834.024,17.5094 847.469,5.21899 855.244,-1.50497 857.652,-4.17813 859.719,-4.76535 862.178,-4.81357L862.178,-4.79532 863.606,-4.79532 866.921,-4.79532 870.938,-4.79532 874.253,-4.79532 876.173,-4.79532C878.42,-4.67685 880.37,-3.99973 882.615,-1.50497 890.39,5.21899 903.837,17.5094 900.37,-9.9086 M869.084,-19.7836C867.311,-19.7836 865.872,-21.2224 865.872,-22.9972 865.872,-24.7706 867.311,-26.2094 869.084,-26.2094 870.859,-26.2094 872.298,-24.7706 872.298,-22.9972 872.298,-21.2224 870.859,-19.7836 869.084,-19.7836" IsDirty="false" GroupName="Mobile Application" ExportCommand="MetroGraphicsPackage.IconCommand">
+    <Settings MainWidth="128" MainHeight="128" FlipX="1" FlipY="1" CustomSize="128" IconShape="Square" BackgroundBrush="#FFCD0000" ContentWidth="114" ContentHeight="114" Angle="0" SizeIndex="5" Padding="7" MaximumPadding="39" IconBrush="#FFFFFFFF" FontFamily="Webdings" Character="&gt;" FlipCommand="MetroGraphicsPackage.IconCommand" IsBackgroundVisible="true" />
+  </Icon>
+</IconProject>

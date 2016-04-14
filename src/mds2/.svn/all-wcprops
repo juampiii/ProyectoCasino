@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/mds2
+END
+Editar_perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Editar_perfil.java
+END
+BienvenidoReg.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/modelado/!svn/ver/5/trunk/ProyectoNuevo/src/mds2/BienvenidoReg.java
+END
+Reactivar_Perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Reactivar_Perfil.java
+END
+Consultar_usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/mds2/Consultar_usuario.java
+END
+Aniadir_juego.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modelado/!svn/ver/13/trunk/ProyectoNuevo/src/mds2/Aniadir_juego.java
+END
+Gestor_de_usuarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Gestor_de_usuarios.java
+END
+Inhabilitar_juego.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modelado/!svn/ver/13/trunk/ProyectoNuevo/src/mds2/Inhabilitar_juego.java
+END
+Bienvenido.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/modelado/!svn/ver/5/trunk/ProyectoNuevo/src/mds2/Bienvenido.java
+END
+Gestionar_saldo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Gestionar_saldo.java
+END
+Listar_sugerencias.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modelado/!svn/ver/12/trunk/ProyectoNuevo/src/mds2/Listar_sugerencias.java
+END
+Usuario_registrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modelado/!svn/ver/6/trunk/ProyectoNuevo/src/mds2/Usuario_registrado.java
+END
+Consultar_no_identificado.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modelado/!svn/ver/11/trunk/ProyectoNuevo/src/mds2/Consultar_no_identificado.java
+END
+Listar_juegos.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modelado/!svn/ver/13/trunk/ProyectoNuevo/src/mds2/Listar_juegos.java
+END
+Ver_sugerencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/modelado/!svn/ver/15/trunk/ProyectoNuevo/src/mds2/Ver_sugerencia.java
+END
+Juegos_publicos.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Juegos_publicos.java
+END
+Gestionar_baja.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modelado/!svn/ver/5/trunk/ProyectoNuevo/src/mds2/Gestionar_baja.java
+END
+Listar_usuarios_no_identificados.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modelado/!svn/ver/11/trunk/ProyectoNuevo/src/mds2/Listar_usuarios_no_identificados.java
+END
+Listar_usuarios_registrados.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Listar_usuarios_registrados.java
+END
+Modificar_usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/mds2/Modificar_usuario.java
+END
+Recordar_contrasenia.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Recordar_contrasenia.java
+END
+Registro.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/modelado/!svn/ver/4/trunk/ProyectoNuevo/src/mds2/Registro.java
+END
+actualizar_juego.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modelado/!svn/ver/13/trunk/ProyectoNuevo/src/mds2/actualizar_juego.java
+END
+Usuario_no_identificado.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Usuario_no_identificado.java
+END
+Inhabilitar_usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modelado/!svn/ver/18/trunk/ProyectoNuevo/src/mds2/Inhabilitar_usuario.java
+END
+Gestor_de_juegos.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Gestor_de_juegos.java
+END
+Gestionar_perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Gestionar_perfil.java
+END
+Juegos.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/modelado/!svn/ver/19/trunk/ProyectoNuevo/src/mds2/Juegos.java
+END
